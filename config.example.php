@@ -177,7 +177,7 @@ return [
     // Separate websites with its own routes
     'sites' => [
         '3ds'               => ['3ds.example.com', '3ds.example2.com'],
-        'wiiu'              => [],
+        'wiiu'              => ['wiiu.example.com', 'wiiu.example2.com' ],
         'web'               => [],
         'pub'               => [],
         'admin'             => [],
